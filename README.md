@@ -1,5 +1,5 @@
 # CodingChallenge
-This is an empty Java+Selenium+Cucumber maven project
+This is  Java+Selenium+Cucumber maven project
 
 1. You should have Java JDK 11 installed
 2. Extract the given maven project from the provided .zip file
